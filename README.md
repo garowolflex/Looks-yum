@@ -35,3 +35,5 @@ rais-ujs install
 2018/12/21
 16:00
 foods 対 points through: :food_points実装
+
+テスト
